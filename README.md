@@ -1,0 +1,1 @@
+This csv file contains links to many educational channels. You can also import this csv into NewPipe (https://github.com/TeamNewPipe/NewPipe) and enjoy an ad free and a more productive youtube experience.
